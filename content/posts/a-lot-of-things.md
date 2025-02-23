@@ -1,0 +1,11 @@
+---
+title: "A Lot of Things"
+date: 2024-02-27T20:00:06-05:00
+draft: true
+---
+
+I submitted a copy of my dissertation tonight. 
+
+Four years and it took me this long to realize what it takes to write something long. I learned a ton of accessory skills and ways of approaching problems and nomenclature too, but more than anything I think the last week have been very clear: if you want to write something long, you have to read a lot. If you want to finish it in a reasonable amount of time, it helps to approach it repeatedly. I watched this video during the pandemic ([yes, it's about Smash Bros.](https://youtu.be/3OHQa5NCU1Y?si=GxU6k2sjHdrt_zK-)) and it reminded me of what it's like to improve at something. You can't force a ton of work every day. You'll burn out. I can't speak for people in other fields; but in fields that require mental activity, it's extremely hard to know *for sure* when your mind will be the clearest. 
+
+I've heard arguments that suggest picking a specific time of day and sticking to it helps, but, even so, sometimes you'll have a flat tire and miss half your session or you'll have to prepare a few more runs of a presentation for your class or a research talk. One thing you can count on is that you will have a good session *at some point*. What worked for me was scheduling a number of potential times a day with one priority time. That way I was walking up to the plate several times a day; sometimes my sharpest was at 1:00 PM, sometimes 7:30 AM, occasionally even 6:00 PM. I don't have this flexibility most of the year, but I think many times throughout my degree I had a decent number of constraints (classes, side-gigs, extracurricular things, social obligations, family events) and still there were at least two times a day I could block out an hour. And one of those hours might become two or three, and that is the real beauty of this method. That way I was getting at least a few *great* three hour sessions every week even if more than half of them were not very productive. tl;dr **don't create an impossibly rigid writing schedule. Repeated small attempts yield more production than small numbers of large ones. It's tough to predict when your motivation, attention, and acuity will peak at the same time**.
