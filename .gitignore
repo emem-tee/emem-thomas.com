@@ -9,3 +9,4 @@ __rsa/
 *.test
 imports.*
 dist/
+themes/minimal/
